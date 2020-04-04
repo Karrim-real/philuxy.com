@@ -5,14 +5,12 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Philuxy.com || Best  Online Making Money News</title>
-		<link rel="stylesheet" href="css/bootstrap.css">
-		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/animate.css">
 		<link rel="stylesheet" href="css/fork-awesome.css">
+		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/custom.css">
-		<link rel="stylesheet" href="css/style.css">
+
 		<script type="text/javascript" src="js/jquery.js"></script>
-		<script type="text/javascript" src="js/bootstrap.js"></script>
 
 
 
@@ -20,7 +18,7 @@
 		<body>
 
 			<!-- Nav Bar -->
-	<nav class="navbar navbar-inverse navbar-fixed-top">
+	<nav class="navbar navbar-inverse  navbar-fixed-top pt-5">
   	<div class="container-fluid">
    	 <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -64,47 +62,141 @@
 
 	<!-- Berging of Couseral Slider -->
 
-	<div class="container-fluid">
-		
-		<!-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-	  <div class="carousel-inner">
-	    <div class="carousel-item active">
-	      <img src="img/alabiahub.jpg" class="d-block w-100" alt="...">
-	    </div>
-	    <div class="carousel-item">
-	      <img src="img/alabiahub.jpg" class="d-block w-100" alt="...">
-	    </div>
-	    <div class="carousel-item">
-	      <img src="img/alabiahub.jpg" class="d-block w-100" alt="...">
-	    </div>
-	  </div>
-	  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-	    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-	    <span class="sr-only">Previous</span>
-	  </a>
-	  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-	    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-	    <span class="sr-only">Next</span>
-	  </a>
-</div> -->
 
 
-	<section class="main">
-		<div class="col-md-8">
-			<div class="content">
-				<h1>This is Main Page</h1>
+
+		<section class="main">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+					<div class="content">
+						<div class="category-menu">
+							<div class="title-text">
+								<h3 class="">Making Money Forum Where You Earn When Post , Read, Comment And Share Post. </h4>
+							</div>
+
+							<h4>Get Started Today</h4>
+							<button type="btn" class="btn btn-info btn-start"> Open An Account Now </button>
+
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-6">
+				<div class="head-image">
+					<img src="img/svg/header.svg" class="head-img" alt="head image">
+					</div>
+				</div> 
+				</div>
+						<hr>
+			</div>
+		</section>
+
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">
+					<div class="cate-list">
+						<ul>
+							<li>GENERAL GIST</li>
+							<li>BUSINESS</li>
+							<li>CELEBRITIES</li>
+							<li>OPPIONS</li>
+							<li>COOKING RECIPES</li>
+							<li>RELATIONSHIP</li>
+							<li>UPDATES</li>
+							<li>HEALTHS</li>
+							<li>PHILUXY PAYOUT</li>
+							<li>SPONSORED POSTS</li>
+							<li>MORE</li>
+							
+						</ul>
+					</div>
+
+					<!-- main post of the blog  -->
+					<div class="post-item-mid">
+						<div class="thumb-image-container">
+							<div class="image-list-thumb">
+								<ul>
+									<a href="/post.php">email me
+									<li><div class="post-title">How to Open An Account On Pluxiy.com</div></li>
+									<li><div class="post-body">How to Open An Account On Pluxiy.com</div></li>
+									<img src="img/" class="img-thumbnail img-responsive" alt="">
+									</a>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4">
+					<!-- side bar -->
+
+					<h3>Advertise With Us</h3>
+
+					<div class="ads">
+						<img class="ads" src="img/arabiahub.jpg" alt="ads">
+					</div>
+
+					
+				</div>
 			</div>
 		</div>
-
-		<div class="col-md-4">
-			<h1>This is Side Bar</h1>
-		</div>
 	</section>
-
-
-	</div>
 	
 
-		</body>
+	<footer>
+		<div class="conatiner-fluid">
+			<div class="row">
+				<div class="col-md-3">
+					<ul>
+						<h3>Support</h3>
+						<li>Faq</li>
+						<li>How Phliuxy Forum Work</li>
+						<li>Advertise With Us</li>
+						<li>Contact Us</li>
+					</ul>
+				</div>
 
+				<!-- Colum Two -->
+				<div class="col-md-3">
+					<ul>
+						<h3>Support</h3>
+						<li>Faq</li>
+						<li>How Phliuxy Forum Work</li>
+						<li>Advertise With Us</li>
+						<li>Contact Us</li>
+					</ul>
+				</div>
+
+				<!-- column Three -->
+				<div class="col-md-3">
+					<ul>
+						<h3>Support</h3>
+						<li>Faq</li>
+						<li>How Phliuxy Forum Work</li>
+						<li>Advertise With Us</li>
+						<li>Contact Us</li>
+					</ul>
+				</div>
+
+				<!-- Column Four -->
+
+				<div class="col-md-3">
+					<ul>
+						<h3>Support</h3>
+						<li>Faq</li>
+						<li>How Phliuxy Forum Work</li>
+						<li>Advertise With Us</li>
+						<li>Contact Us</li>
+					</ul>
+				</div>
+				
+			</div>
+		</div>
+	</footer>
+
+	</body>
+
+<script type="text/javascript" src="js/bootstrap.js"></script>
 </html>
